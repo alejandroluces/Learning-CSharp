@@ -12,3 +12,4 @@ C:\Users\aluces\Desktop\Learning-CSharp\obj\Debug\net8.0\refint\Learning-CSharp.
 C:\Users\aluces\Desktop\Learning-CSharp\obj\Debug\net8.0\Learning-CSharp.pdb
 C:\Users\aluces\Desktop\Learning-CSharp\obj\Debug\net8.0\Learning-CSharp.genruntimeconfig.cache
 C:\Users\aluces\Desktop\Learning-CSharp\obj\Debug\net8.0\ref\Learning-CSharp.dll
+C:\Users\aluces\Desktop\Learning-CSharp\obj\Debug\net8.0\Learning-CSharp.sourcelink.json
