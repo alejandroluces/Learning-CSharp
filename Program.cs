@@ -1,4 +1,4 @@
-﻿/*
+/*
 var sale = new SaleWhitTax(15, 1.16m);
 var message = sale.GetInfo();
 
@@ -44,6 +44,7 @@ class Sale
         return "El total " + Total;
     }
 }
+
 
 
 */
@@ -1128,3 +1129,30 @@ namespace BloqueFinally
         }
 }
 */
+
+
+
+using System;
+
+namespace ConceptosPOO
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            realizarTarea();
+        }
+
+        static void realizarTarea()
+        {
+            Punto origen = new Punto();
+            Punto destino = new Punto(128, 80);
+
+            Punto otroPunto = new Punto();
+            double distancia = origen.DistanciaHasta(otroPunto);
+            Console.WriteLine($"La distancia entre los puntos es {distancia}");
+
+            Console.WriteLine($"Numero de objetos creados: {Punto.ContadorDeObjetos()}");
+        }
+    }
+}
